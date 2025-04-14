@@ -36,9 +36,13 @@
 <p>RF20: O sistema deve permitir o controle de custos operacionais relacionados ao uso de maquinários, como combustível, manutenção, etc.</p>
 
 <h3> 1.7 Relatórios Financeiros e Análises </h3>
+
 <p>RF21: O sistema deve gerar relatórios financeiros detalhados, como relatórios de lucros, receitas, despesas e margem de contribuição.</p>
+
 <b>RF22: O sistema deve permitir a geração de gráficos e dashboards com KPIs financeiros.</b>
+
 <b>RF23: O sistema deve permitir a análise de rentabilidade de cada projeto.</b>
+
 <b>RF24: O sistema deve fornecer relatórios sobre o retorno de investimentos (ROI) feitos pela empresa.</b>
 
 <h2> 2. Requisitos Não Funcionais </h2>
@@ -66,3 +70,6 @@
 <h3> 2.6 Manutenibilidade </h3>
 <p>RNF11: O sistema deve ser modular e de fácil manutenção, permitindo atualizações e ajustes sem impactar a operação em tempo real.</p>
 <p>RNF12: O código-fonte do sistema deve seguir boas práticas de desenvolvimento, com documentação clara para facilitar a manutenção e evolução do sistema.</p>
+
+Version: 0.1
+Modification by Otávio T.
